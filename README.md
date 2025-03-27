@@ -1,4 +1,4 @@
-# CS 1501 – Algorithm Implementation – Assignment #4
+# CS 1501 – Algorithm Implementation – Assignment #3
 
 
 ## OVERVIEW
