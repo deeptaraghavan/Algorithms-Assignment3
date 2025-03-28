@@ -47,7 +47,7 @@ public  class AirlineSystem
 	  // printing out the menu for user 
 	  private int menu(){
 	    System.out.println("*********************************");
-	    System.out.println("Welcome to Srihitha Airlines!");
+	    System.out.println("Welcome to Deepta Airlines!");
 	    System.out.println("1. Read data from a file.");
 	    System.out.println("2. Display all direct routes, their distance, and their price.");
 	    System.out.println("3. Display a minimum spanning tree for service routes based on distance");
